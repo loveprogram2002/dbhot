@@ -8,6 +8,8 @@ int main(void)
     puts("直播");
     puts("短视频");
     puts("约饭（修复bug）");
+    puts("商城100");
+    
 
     return 0;
 }
