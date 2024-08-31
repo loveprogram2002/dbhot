@@ -7,6 +7,7 @@ int main(void)
     puts("日韩");
     puts("直播");
     puts("短视频");
+    puts("约饭");
 
     return 0;
 }
